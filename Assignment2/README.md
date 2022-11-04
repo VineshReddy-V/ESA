@@ -2,7 +2,7 @@
 
 # Git URL
 
-"https://github.com/chethan180/ESA.git"
+"https://github.com/VineshReddy-V/ESA.git"
 
 ## API documentation
 
